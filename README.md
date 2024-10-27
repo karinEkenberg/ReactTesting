@@ -26,7 +26,8 @@ This project includes three interactive React components for practicing JavaScri
 
 ## Screenshot
 
-![reactTest](https://github.com/user-attachments/assets/db674905-6fc6-4707-aeac-6569dba984a1)
+![reactTest](https://github.com/user-attachments/assets/225fc386-f4f1-4d50-b67f-486f0e7561ea)
+
 
 
 > Screenshot showing the layout with the Box, Counter, and Calculator components.
