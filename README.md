@@ -43,10 +43,6 @@ This project includes three interactive React components for practicing JavaScri
 To set up this project locally:
 
 1. **Clone the repository**:
-   ```bash
-   git https://github.com/karinEkenberg/ReactTesting/
-   cd react-interactive-components
-   ```
 
 2. **Install dependencies**:
    ```bash
