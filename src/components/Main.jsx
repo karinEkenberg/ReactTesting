@@ -5,7 +5,7 @@ import Box from "./Box";
 const Main = () => {
   return (
     <main className="p-4">
-      <h2 className="text-xl font-bold mb-4">Welcome!</h2>
+      <h2 id="welcome" className="text-xl font-bold mb-4">Welcome!</h2>
       <p>Just trying out some React here</p>
 
       <Counter />

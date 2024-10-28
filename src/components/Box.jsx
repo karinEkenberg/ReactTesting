@@ -9,7 +9,7 @@ const Box = () => {
   };
 
   return (
-    <div className="p-4">
+    <div id="add-a-box" className="p-4">
       <div className="mb-4">
         <button
           onClick={addBox}

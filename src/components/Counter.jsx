@@ -5,7 +5,7 @@ const Counter = () => {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="flex flex-col items-center mt-10 mb-10">
+    <div id="counter" className="flex flex-col items-center mt-10 mb-10">
       <h2 className="text-2xl">Counter: {count}</h2>
       <div className="mt-4">
         <button

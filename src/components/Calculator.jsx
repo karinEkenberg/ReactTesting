@@ -25,7 +25,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="p-4 bg-amber-300 rounded shadow-md w-80 mx-auto mt-10 mb-10">
+    <div id="calculator" className="p-4 bg-amber-300 rounded shadow-md w-80 mx-auto mt-10 mb-10">
       <h2 className="text-2xl">Calculator</h2>
       <div className="my-2">
         <input
