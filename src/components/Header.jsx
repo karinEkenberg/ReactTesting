@@ -23,7 +23,6 @@ const Header = () => {
 
   return (
     <header
-      id="hero"
       className="bg-emerald-500 py-10 w-full mx-auto sticky text-white top-0 z-10"
     >
       <section className="max-w-4xl mx-auto p-4 flex justify-between items-center">
